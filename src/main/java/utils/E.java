@@ -5,4 +5,5 @@ package utils;
  */
 public class E {
     private int id;
+    private long uid;
 }
